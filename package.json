@@ -2,7 +2,7 @@
   "name": "cw-06",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pocscz06.github.io/cw-06/",
+  "homepage": "pocscz06.github.io/cw-06/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
